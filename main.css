@@ -1,0 +1,9 @@
+body{
+    background-color:whitesmoke;
+}
+canvas{
+    border:solid red;
+    background-color:black;
+    margin:70px auto;
+    display:block;
+}
